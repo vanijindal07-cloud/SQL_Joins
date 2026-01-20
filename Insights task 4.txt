@@ -1,0 +1,13 @@
+Insight 1: Country-wise customer distribution
+
+The dataset shows that customers are spread across multiple countries such as Germany, USA, Canada, Norway, and Belgium. This indicates that the business has a strong international customer base, with Europe and North America being key markets.
+
+
+Insight 2: Repeat purchases by customers
+
+Some customer names appear multiple times with different invoice dates. This suggests that a portion of customers are repeat buyers, highlighting good customer retention and consistent engagement over time.
+
+
+ Insight 3: Variation in invoice totals
+
+The Total amount varies across invoices, showing that customers make purchases of different values. This reflects diverse buying behavior, possibly influenced by factors such as product type, customer preference, or regional pricing.
