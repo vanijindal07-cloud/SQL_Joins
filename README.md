@@ -27,5 +27,3 @@ Performed INNER JOIN and LEFT JOIN operations on Customers, Invoice, InvoiceLine
 2. Several customers exist without any purchase history, representing potential targets for marketing and re-engagement campaigns.
 3. Certain categories generate higher revenue than others, helping the business prioritize inventory and promotional strategies.
 
-## Author
-Vani Jindal
